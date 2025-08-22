@@ -23,4 +23,4 @@
 
 ![snake commit graph](https://raw.githubusercontent.com/isitreallyalive/isitreallyalive/refs/heads/snake/ctp-mocha-mauve.svg)
 
-<img align="left" src="https://i.pinimg.com/736x/80/ff/75/80ff75875a0076f74543fd92d511009a.jpg" height="280"> <img align="right" src="https://i.pinimg.com/736x/89/23/bd/8923bd6edc3bed7911038ac73c487412.jpg" height="280">
+<img align="left" src="https://i.pinimg.com/736x/80/ff/75/80ff75875a0076f74543fd92d511009a.jpg" height="280"> <img align="center" src="https://i.pinimg.com/736x/89/23/bd/8923bd6edc3bed7911038ac73c487412.jpg" height="280">
