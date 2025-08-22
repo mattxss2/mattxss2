@@ -26,3 +26,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mattxss2&show_icons=true&locale=en" alt="mattxss2" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mattxss2&" alt="mattxss2" /></p>
+<!--END_SECTION:waka-->
+
+![snake commit graph](https://raw.githubusercontent.com/isitreallyalive/isitreallyalive/refs/heads/snake/ctp-mocha-mauve.svg)
