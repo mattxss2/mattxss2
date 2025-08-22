@@ -1,8 +1,6 @@
 <h1 align="center">Hello, my name is Mat</h1>
 <h3 align="center">Brazilian fullstack developer, gamer and pet lover</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mattxss2" alt="mattxss2" /></a> </p>
-
 - Working as a Dev in [Mineração Coto LTDA](https://www.mineracaocoto.com.br/)
 
 - Ironically i stream at [Tiktok](https://www.tiktok.com/@mattxsfps)
