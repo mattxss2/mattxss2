@@ -22,3 +22,5 @@
 <!--END_SECTION:waka-->
 
 ![snake commit graph](https://raw.githubusercontent.com/isitreallyalive/isitreallyalive/refs/heads/snake/ctp-mocha-mauve.svg)
+
+<img align="left" src="https://i.pinimg.com/736x/80/ff/75/80ff75875a0076f74543fd92d511009a.jpg">
