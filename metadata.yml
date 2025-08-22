@@ -1,0 +1,2 @@
+- name: osu-profile
+  uses: isitreallyalive/osu-profile@2.0.0
