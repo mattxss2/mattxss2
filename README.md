@@ -7,6 +7,10 @@
 
 - Learning: **C#, C++ & Php**
 
+- Main Languages: **Java, JavaScript, Python**
+
+- Markup Languages: **HTML, CSS** 
+
 - My Gmail for further contact **matheusreyrodriguezyoliveira@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
