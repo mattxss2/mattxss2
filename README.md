@@ -5,9 +5,11 @@
 
 - Ironically i stream at [Tiktok](https://www.tiktok.com/@mattxsfps)
 
+- I Speak Spanish, English and Portuguese, (Also a bit of italian but we dont talk about it) 
+
 - Learning: **C#, C++ & Php**
 
-- Main Languages: **Java, JavaScript, Python**
+- Main Programming Languages: **Java, JavaScript, Python**
 
 - Markup Languages: **HTML, CSS** 
 
