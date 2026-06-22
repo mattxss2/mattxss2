@@ -1,11 +1,9 @@
 <h1 align="center">Hello, my name is Mat</h1>
-<h3 align="center">Brazilian fullstack developer, gamer and pet lover</h3>
+<h3 align="center">Brazilian fullstack developer</h3>
 
 - Working as a Dev in [Mineração Coto LTDA](https://www.mineracaocoto.com.br/)
 
-- Ironically i stream at [Tiktok](https://www.tiktok.com/@mattxsfps)
-
-- I Speak Spanish, English and Portuguese, (Also a bit of italian but we dont talk about it) 
+- I Speak Spanish, English and Portuguese 
 
 - Learning: **C#, C++ & Php**
 
@@ -28,5 +26,3 @@
 <!--END_SECTION:waka-->
 
 ![snake commit graph](https://raw.githubusercontent.com/isitreallyalive/isitreallyalive/refs/heads/snake/ctp-mocha-mauve.svg)
-
-<img align="left" src="https://i.pinimg.com/736x/80/ff/75/80ff75875a0076f74543fd92d511009a.jpg" height="280"> <img align="center" src="https://i.pinimg.com/736x/89/23/bd/8923bd6edc3bed7911038ac73c487412.jpg" height="280">
